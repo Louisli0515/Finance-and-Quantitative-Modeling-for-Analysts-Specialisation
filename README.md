@@ -110,4 +110,7 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### The exponential function
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230774713-d46dae68-b138-4488-89d0-9556fdb9ac38.png>
+
 * $y = e^{mx}$.
+* Essential characteristic: the rate of change of $y$ is proportional to $y$ itself.
