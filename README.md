@@ -62,4 +62,18 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### Modeling Process Workflow
 
+<img width = 75% height = 75% src = https://user-images.githubusercontent.com/128298224/230773640-82f4dcd2-f996-419d-8c74-61891071cf5e.png>
+
+#### What if the model doesn't always work
+
+* When the observed outcome differs greatly from the model's predicition, then there is the possibility of learning from thies event if we can understand why the difference occurs.
+* Modeling is a continuous and evolutionary process
+* We identify the weaknesses and limitations and iterate the modeling process to overcome them.
+
+### A Vocabulary for Modeling
+
+#### Data driven vs. theory driven
+
+* Theory: Given a set of assumptions and relations, then what are the logical consequences? E.g. If we assume that markets are efficient, then what should the price of a stock option be?
+* Data: Given a set of observations, how can we approximate the underlying process that generated them? E.g. I've separated out my profitable customers from the unprofitable ones. Now, what features are able to differentiate them?
 
