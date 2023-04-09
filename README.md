@@ -22,3 +22,8 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### Diamonds and weight
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230770325-99d91daa-a7bf-4379-973e-083e45a9f46f.png>
+
+#### Spread of an epidemic
+
+
