@@ -45,7 +45,7 @@ This course is available on Coursera, and here is my own note about this course.
 * Forecasting (time series): How many people are expected to be infected in 6 weeks?
 * Optimisation: What price maximises profit?
 * Ranking and targeting: Given limited resources, which potential diamonds for sale should be targeted first for potential purchase?
-* Exploring what-if scenarios: If the growth rate of the epidemic increased to $20%$ per week, then how many infections would we expect in the next 10 weeks?
+* Exploring what-if scenarios: If the growth rate of the epidemic increased to 20% per week, then how many infections would we expect in the next 10 weeks?
 * Interpreting coefficients in model: What do we learn from the coefficient -2.5 in the price/demand model?
 * Assessing how sensitive the model is to key assumptions.
 
@@ -74,6 +74,26 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### Data driven vs. theory driven
 
-* Theory: Given a set of assumptions and relations, then what are the logical consequences? E.g. If we assume that markets are efficient, then what should the price of a stock option be?
-* Data: Given a set of observations, how can we approximate the underlying process that generated them? E.g. I've separated out my profitable customers from the unprofitable ones. Now, what features are able to differentiate them?
+* ***Theory***: Given a set of assumptions and relations, then what are the logical consequences? E.g. If we assume that markets are efficient, then what should the price of a stock option be?
+* ***Data***: Given a set of observations, how can we approximate the underlying process that generated them? E.g. I've separated out my profitable customers from the unprofitable ones. Now, what features are able to differentiate them?
 
+#### Deterministic vs. probabilistic/stochastic
+
+* ***Deterministic***: Given a fixed set of inputs, the model always gives the same output. E.g. Invest $1000 at 4% annual compound interest for 2 years. After 2 years the initial $1000 will always be worth $1081.60.
+* ***Probabilistic***: Evven with identical inputs, the model output can vary from instance to instance. E.g. A person spends $1000 on lottery tickets. After the lottery is drawn how much they are worth dependes on a random variable, whether or not they won the lottery.
+
+#### Discrete vs. continuous variables
+
+* Watches can be digital or analog
+* Likewise models can involve discrete or continuous variables. ***Discrete***: characterised by jumps and distinct values; ***Continuous***: a smooth process with an infinite number of potential values in any fixed interval.
+
+#### Static vs. dynamic
+
+* ***Static***: the model captures a single snapshot of the business process. E.g. Given a website's installed software base, what are the chances that it is compromised today?
+* ***Dynamic***: the evolution of the process itself is of interest. The model describes the movement from state to state. E.g. Given a person's participation in a job training program, how long will it take until he/she finds a job and then, if they find one, for how long will they keep it?
+
+### Mathematical Functions
+
+#### Linear function
+
+* $y = mx + b$
