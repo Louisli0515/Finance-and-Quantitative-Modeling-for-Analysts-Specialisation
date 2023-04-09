@@ -100,3 +100,10 @@ This course is available on Coursera, and here is my own note about this course.
 
 * $y = mx + b$
 * Essential characteristic: the slope is constant.
+
+#### The power function for various powers of $x$
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230774533-708c55d7-d1d4-4d49-8f11-d7726f694a73.png>
+
+* $y = x^{m}$.
+* Essential characteristic: A one ***percent*** (Proportionate) change in $x$ corresponds to an approximate $m$ ***percent*** (proportionate) change in $y$.
