@@ -31,4 +31,10 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### Demand models
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230770433-138a7431-3099-4200-b20f-283a4b8c885f.png>
+
+#### The uptake of a new product
+
+
+
 
