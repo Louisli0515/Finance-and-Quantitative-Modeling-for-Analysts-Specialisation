@@ -96,4 +96,7 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### Linear function
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230774475-7ea3b045-9502-4053-ac08-643c29a9e670.png>
+
 * $y = mx + b$
+* Essential characteristic: the slope is constant.
