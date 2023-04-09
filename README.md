@@ -37,5 +37,24 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230770481-ea47ee27-c42d-40ce-96d5-8a15015527dc.png>
 
+### How models are used in practice
 
+#### Ways to use models in practice
+
+* Prediction: Calculating a single output: What's the expected price of a diamond ring that weighs 0.2 carats?
+* Forecasting (time series): How many people are expected to be infected in 6 weeks?
+* Optimisation: What price maximises profit?
+* Ranking and targeting: Given limited resources, which potential diamonds for sale should be targeted first for potential purchase?
+* Exploring what-if scenarios: If the growth rate of the epidemic increased to $20%$ per week, then how many infections would we expect in the next 10 weeks?
+* Interpreting coefficients in model: What do we learn from the coefficient -2.5 in the price/demand model?
+* Assessing how sensitive the model is to key assumptions.
+
+#### Benefits of modeling
+
+* Identify gaps in current understanding
+* Make assumptions explicit
+* Have a well-defined description of the business process
+* Create an institutional memory
+* Used as a decision support tool
+* Serendipitous insight generator
 
