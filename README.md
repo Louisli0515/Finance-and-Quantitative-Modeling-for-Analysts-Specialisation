@@ -114,3 +114,9 @@ This course is available on Coursera, and here is my own note about this course.
 
 * $y = e^{mx}$.
 * Essential characteristic: the rate of change of $y$ is proportional to $y$ itself.
+
+#### The log function
+
+* The log function is very useful for modeling processes that exhibit ***diminishing returns to scale***.
+* There are processes that increase but at a decreasing rate.
+* Essential characteristic: A constant proportionate change in $x$ is associated with the same absolulte change in $y$.
