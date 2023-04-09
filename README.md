@@ -58,3 +58,8 @@ This course is available on Coursera, and here is my own note about this course.
 * Used as a decision support tool
 * Serendipitous insight generator
 
+### Key steps in the Modeling Process
+
+#### Modeling Process Workflow
+
+
