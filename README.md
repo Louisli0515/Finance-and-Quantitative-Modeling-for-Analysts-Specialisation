@@ -27,3 +27,8 @@ This course is available on Coursera, and here is my own note about this course.
 #### Spread of an epidemic
 
 
+<img width = 50% height = 50% src =https://user-images.githubusercontent.com/128298224/230770391-33370d55-acce-40c6-a60e-d8fc2ba69c62.png>
+
+#### Demand models
+
+
