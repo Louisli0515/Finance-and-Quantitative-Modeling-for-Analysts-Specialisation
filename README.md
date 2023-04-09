@@ -120,7 +120,7 @@ This course is available on Coursera, and here is my own note about this course.
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230774914-56ce0522-ab48-46b2-bf60-4073c0f41c05.png>
 
 * $y = \log_{b}(x)$.
-* $log(xy) = \log(x)+\log(y)$.
+* $\log(xy) = \log(x)+\log(y)$.
 * The log function is very useful for modeling processes that exhibit ***diminishing returns to scale***.
 * There are processes that increase but at a decreasing rate.
 * Essential characteristic: A constant proportionate change in $x$ is associated with the same absolulte change in $y$.
