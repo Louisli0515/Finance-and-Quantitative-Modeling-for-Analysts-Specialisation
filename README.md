@@ -35,6 +35,7 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### The uptake of a new product
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230770481-ea47ee27-c42d-40ce-96d5-8a15015527dc.png>
 
 
 
