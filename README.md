@@ -268,3 +268,12 @@ This course is available on Coursera, and here is my own note about this course.
 #### Brute force approach
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230902960-0a16a87d-c4b0-4217-869e-563e34157d4c.jpg>
+
+#### Calculus approach
+
+* Profit is maximised when the ***derivatie*** or profit with respect to price equals to 0.
+* Through calculus one obtains the optimal value of price as $$p_{\text{opt}} = \frac{cb}{1+b}$$, where $c$ is the production cost and $b$ is the exponent in the power function.
+* The value (-b) is known as ***the price elasticity of demand***.
+
+#### Visualising the calculus solution
+
