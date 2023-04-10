@@ -202,4 +202,7 @@ This course is available on Coursera, and here is my own note about this course.
 * For the catch to fall by 5% each year, means that the multiplier is $\theta = 0.95$.
 * In general, if the process is changing by $R$% in each time period, then the multiplier is $$\theta = 1+\frac{R}{100}.$$
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230900037-d3f62edd-2554-4810-8a24-dabcfb4ea20c.jpg>
+
+
 
