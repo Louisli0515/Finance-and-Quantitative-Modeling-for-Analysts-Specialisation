@@ -125,3 +125,8 @@ This course is available on Coursera, and here is my own note about this course.
 * There are processes that increase but at a decreasing rate.
 * Essential characteristic: A constant proportionate change in $x$ is associated with the same absolulte change in $y$.
 
+## Module 2
+
+### Introduction to Linear Models and Optimisation
+
+
