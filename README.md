@@ -277,3 +277,5 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### Visualising the calculus solution
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230903553-a380f0ec-0d77-463b-b4c4-df444e55d10d.jpg>
+
