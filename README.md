@@ -244,3 +244,25 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230902097-804a13c1-a895-438c-89dc-c0dcd1554a88.jpg>
 
+#### Calculating the expected number of cases
+
+* Interpretation of the 0.15 coefficient: There is an approximate 15 weekly growth rate in cases.
+* Continuous models allow calculations at any value of $t$, not just a set of discrete values.
+
+### Optimisation
+
+#### Using a model for optimisation
+
+* A common modeling objective is to perform a subsequent optimisation.
+* The objective of the optimisation is to find the value of an input that maximises/minimises an output.
+
+#### Demand model
+
+* Consider the demand model: $$Q = 60000P^{-2.5}.$$
+* If the price of production is constant at $C=2$ for each unit, then at what price is profit maximised?
+* Profit = Revenue - Cost
+* Revenue = $P\times Q$.
+* Profit = $PQ-CQ = Q(P-C) =60000P^{-2.5}(P-2).$
+* Goal: Choose $p$ to maximise this equation.
+
+#### Brute force approach
