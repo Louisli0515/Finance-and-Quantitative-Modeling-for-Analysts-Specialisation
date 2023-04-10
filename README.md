@@ -204,5 +204,40 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230900037-d3f62edd-2554-4810-8a24-dabcfb4ea20c.jpg>
 
+#### The sum of the geometric series
 
+* If we denote the sum up to time $t$ as $S_{t}$, then $$S_{t} = P_{0}\frac{1-\theta^{t+1}}{1-\theta}.$$
+* More efficient than spreadsheet.
 
+### Present and Future Value
+
+#### Present and future value
+
+* If there is no inflation and the prevailing interest rate is 4%, then which of the following options would you prefer?
+* $1000 today or $1500 in ten years?
+* Either look at how $1000 will be worth in ten years or calculate how much you would have to invest today to get $1500 ten years from now.
+* The latter approach relies on the concept of ***present value***.
+
+#### The present value calculation
+
+* We know that $P_{t} = P_{0}\theta^{t}$ and making $P_{0}$ the subject of the formula means that $P_{0} = P_{t}\theta^{-t}$.
+* Therefore, $1500 in ten years time in a 4% interest rate environment is worth $1500(1+0.04)^{-10}$ in today's money, which is $1013.346, which is more than $1000, so you should prefer the second investment of $1500 received in ten years.
+* This straightforward proportionate increase model allows for a simple discounting formula.
+
+#### Use of present value
+
+* A primary use in discounting investments to the present time.
+* An ***annuity*** is a schedule of fixed payments over a specified and finite time period.
+* The present value of an annuity is the ***sum*** of the present values of each separate payment.
+* Present value is also used in ***lifetime customer value*** calculations.
+
+#### Continuous compounding
+
+* The compounding period for an investment can be yearly, monthly, weekly, daily etc.
+* As the compounding period gets shorter and shorter, in the limit, the process is said to be ***continuously compounded***.
+* If a principal amount $P_{0}$ is continuously compounded at a nominal annual interest rate of R%, then at year $t$, $$P_{t} = P_{0}e^{rt}$$ where $r = \frac{R}{100}$.
+
+#### Modeling an epidemic
+
+* The model $P_{t} = P_{0}e^{rt}$ doesn't just describe money growing, it is called ***exponential growth*** or ***decay*** depending on whether $r$ is positive or negative respectively.
+* A continuous time model for the initial stages of an epidemic states that the number of cases at week $t$ is $15e^{0.15t}$, halfway through week 7, how many cases do you expect?
