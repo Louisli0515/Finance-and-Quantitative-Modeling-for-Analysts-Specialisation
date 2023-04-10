@@ -181,3 +181,18 @@ This course is available on Coursera, and here is my own note about this course.
 * Start off with $100 (***principal***) and at the end of every year earn 10% of ***compound interest*** on the initial $100.
 * Compound interest means that the interest itself earns interest in subsequent years.
 * Notice that the growth is no longer the same absolute amount each year, but it is the same proportionate amount (10%).
+
+#### Comparison between two interest
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230899107-b332ea49-a986-404b-8bec-218ed6176348.jpg>
+
+### Constant Proportionate Growth
+
+#### Constant proportionate growth
+
+* Denote the initial amount as $P_{0}$.
+* Denote the constant proportionate growth factor by $\theta$.
+* The growth progression is $$P_{0},P_{0}\theta,P_{0}\theta^{2},...,$$
+* $\theta > 1$ means the process is growing.
+* $\theta < 1$ means the progress is decaying.
+
