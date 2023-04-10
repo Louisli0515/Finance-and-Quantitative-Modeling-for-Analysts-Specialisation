@@ -129,4 +129,13 @@ This course is available on Coursera, and here is my own note about this course.
 
 ### Introduction to Linear Models and Optimisation
 
+#### Deterministic models
 
+* There are no random/uncertain components in these models.
+* If the inputs to the model are the same then the outputs will always be the same.
+* The downside of deterministic models: it is hard to assess uncertainty in the outputs.
+
+#### A linear cost function
+
+* Call the number of units produced $q$, and the total cost of producing $q$ units $C$.
+* Define $$C = 100+30q.$$
