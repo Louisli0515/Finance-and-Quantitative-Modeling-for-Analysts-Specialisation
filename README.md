@@ -195,4 +195,11 @@ This course is available on Coursera, and here is my own note about this course.
 * The growth progression is $$P_{0},P_{0}\theta,P_{0}\theta^{2},...,$$
 * $\theta > 1$ means the process is growing.
 * $\theta < 1$ means the progress is decaying.
+* The type of progression is called ***geometric progression***.
+
+#### The constant multiplier
+
+* For the catch to fall by 5% each year, means that the multiplier is $\theta = 0.95$.
+* In general, if the process is changing by $R$% in each time period, then the multiplier is $$\theta = 1+\frac{R}{100}.$$
+
 
