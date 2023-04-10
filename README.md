@@ -139,3 +139,4 @@ This course is available on Coursera, and here is my own note about this course.
 
 * Call the number of units produced $q$, and the total cost of producing $q$ units $C$.
 * Define $$C = 100+30q.$$
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230897263-cf6354bb-804c-4dee-98e2-52b98f4547a8.jpg>
