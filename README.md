@@ -1,5 +1,7 @@
-# Fundamentals-of-Quantitative-Modeling
-This course is available on Coursera, and here is my own note about this course.
+# Finance & Quantitative Modeling for Analysts Specialisation
+This course is available on Coursera, and here is my own note about this course. Also, this course is made up of 4 mini courses: ***Fundamentals of Quantitative Modeling***, ***Introduction to Spreadsheets and Models***, ***Financial Acumen for Non-Financial Managers*** and ***Introduction to Corporate Finance***.
+
+## Fundamentals of Quantitative Modeling
 
 ## Module 1
 
