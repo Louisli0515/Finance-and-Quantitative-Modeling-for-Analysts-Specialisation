@@ -266,3 +266,5 @@ This course is available on Coursera, and here is my own note about this course.
 * Goal: Choose $p$ to maximise this equation.
 
 #### Brute force approach
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230902960-0a16a87d-c4b0-4217-869e-563e34157d4c.jpg>
