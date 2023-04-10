@@ -138,5 +138,17 @@ This course is available on Coursera, and here is my own note about this course.
 #### A linear cost function
 
 * Call the number of units produced $q$, and the total cost of producing $q$ units $C$.
-* Define $$C = 100+30q.$$
+* Define $$C = 100+30q.$$ 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230897263-cf6354bb-804c-4dee-98e2-52b98f4547a8.jpg>
+
+#### Interpretation 
+
+* The two coefficients in the line are the intercept and slope: $b$ and $m$ in general, 100 and 30 in this particular instance.
+* $b$: the total cost of producing 0 units. That part of total cost that doesn't depend on the quantity produced: the ***fixed*** cost.
+* $m$: the slope of the line: the change in total cost for an incremental unit of production: the ***variable*** cost.
+
+#### Example with a 'time-to-produce' function
+
+* It takes 2 hours to set up a production run, and each incremental unit produced always takes an additional 15 minutes (0.25 hours); always here means constant slope.
+* Call $T$ the time to produce $q$ unites, then $$T = 2+0.25q$$
+* Interpretation: $b$ is the ***setup*** time; $m$ is the ***work rate*** (15 minutes per additional item).
