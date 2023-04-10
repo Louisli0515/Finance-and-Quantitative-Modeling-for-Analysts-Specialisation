@@ -161,3 +161,23 @@ This course is available on Coursera, and here is my own note about this course.
 * One of the key uses of linear models is in ***Linear Programming (LP)***, which is a techinique to solve certain ***optimisation*** problems.
 * These models incorporate ***constraints*** to make them more realistic.
 * Linear programming problems can be solved with add-ins for common spreadsheet programs.
+
+### Growth in Discrete Time
+
+#### Growth in discrete time
+
+* Growth is a fundamental business concept: the number of customer at time $t$; the revenue in quarter $q$; the value of an investment at some time $t$ in the future.
+* Sometimes a linear model may be appropraite for a growth process, but an alternative to a ***linear growth*** model is a ***proportionate*** one.
+* Proportionate growth: a constant percent increase (decrease) from one period to the next.
+
+#### Simple interest
+
+* Start off with $100 (***principal***) and at the end of every year earn 10% of ***simple interest*** on the initial $100.
+* Simple interest means that interest is only earned on the principal investment.
+* Every year the investment grows by the same amount.
+
+#### Compound interest
+
+* Start off with $100 (***principal***) and at the end of every year earn 10% of ***compound interest*** on the initial $100.
+* Compound interest means that the interest itself earns interest in subsequent years.
+* Notice that the growth is no longer the same absolute amount each year, but it is the same proportionate amount (10%).
