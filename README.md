@@ -3,9 +3,7 @@ This course is available on Coursera, and here is my own note about this course.
 
 ## Fundamentals of Quantitative Modeling
 
-## Module 1
-
-### Definition and Uses of Models, Common Functions
+### Module 1 
 
 #### What is a model?
 
@@ -39,7 +37,6 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230770481-ea47ee27-c42d-40ce-96d5-8a15015527dc.png>
 
-### How models are used in practice
 
 #### Ways to use models in practice
 
@@ -60,8 +57,6 @@ This course is available on Coursera, and here is my own note about this course.
 * Used as a decision support tool
 * Serendipitous insight generator
 
-### Key steps in the Modeling Process
-
 #### Modeling Process Workflow
 
 <img width = 75% height = 75% src = https://user-images.githubusercontent.com/128298224/230773640-82f4dcd2-f996-419d-8c74-61891071cf5e.png>
@@ -72,7 +67,6 @@ This course is available on Coursera, and here is my own note about this course.
 * Modeling is a continuous and evolutionary process
 * We identify the weaknesses and limitations and iterate the modeling process to overcome them.
 
-### A Vocabulary for Modeling
 
 #### Data driven vs. theory driven
 
@@ -94,7 +88,6 @@ This course is available on Coursera, and here is my own note about this course.
 * ***Static***: the model captures a single snapshot of the business process. E.g. Given a website's installed software base, what are the chances that it is compromised today?
 * ***Dynamic***: the evolution of the process itself is of interest. The model describes the movement from state to state. E.g. Given a person's participation in a job training program, how long will it take until he/she finds a job and then, if they find one, for how long will they keep it?
 
-### Mathematical Functions
 
 #### Linear function
 
@@ -127,9 +120,8 @@ This course is available on Coursera, and here is my own note about this course.
 * There are processes that increase but at a decreasing rate.
 * Essential characteristic: A constant proportionate change in $x$ is associated with the same absolulte change in $y$.
 
-## Module 2
+### Module 2
 
-### Introduction to Linear Models and Optimisation
 
 #### Deterministic models
 
@@ -164,7 +156,6 @@ This course is available on Coursera, and here is my own note about this course.
 * These models incorporate ***constraints*** to make them more realistic.
 * Linear programming problems can be solved with add-ins for common spreadsheet programs.
 
-### Growth in Discrete Time
 
 #### Growth in discrete time
 
@@ -188,7 +179,6 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230899107-b332ea49-a986-404b-8bec-218ed6176348.jpg>
 
-### Constant Proportionate Growth
 
 #### Constant proportionate growth
 
@@ -210,8 +200,6 @@ This course is available on Coursera, and here is my own note about this course.
 
 * If we denote the sum up to time $t$ as $S_{t}$, then $$S_{t} = P_{0}\frac{1-\theta^{t+1}}{1-\theta}.$$
 * More efficient than spreadsheet.
-
-### Present and Future Value
 
 #### Present and future value
 
@@ -250,8 +238,6 @@ This course is available on Coursera, and here is my own note about this course.
 
 * Interpretation of the 0.15 coefficient: There is an approximate 15 weekly growth rate in cases.
 * Continuous models allow calculations at any value of $t$, not just a set of discrete values.
-
-### Optimisation
 
 #### Using a model for optimisation
 
