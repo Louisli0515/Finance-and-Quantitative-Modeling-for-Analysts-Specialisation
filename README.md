@@ -221,7 +221,7 @@ This course is available on Coursera, and here is my own note about this course.
 #### The present value calculation
 
 * We know that $P_{t} = P_{0}\theta^{t}$ and making $P_{0}$ the subject of the formula means that $P_{0} = P_{t}\theta^{-t}$.
-* Therefore, $1500 in ten years time in a 4% interest rate environment is worth $1500(1+0.04)^{-10}$ in today's money, which is $1013.346, which is more than $1000, so you should prefer the second investment of $1500 received in ten years.
+* Therefore, 1500 dollars in ten years time in a 4% interest rate environment is worth $1500(1+0.04)^{-10}$ in today's money, which is $1013.346, which is more than $1000, so you should prefer the second investment of $1500 received in ten years.
 * This straightforward proportionate increase model allows for a simple discounting formula.
 
 #### Use of present value
