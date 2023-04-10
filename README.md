@@ -152,3 +152,12 @@ This course is available on Coursera, and here is my own note about this course.
 * It takes 2 hours to set up a production run, and each incremental unit produced always takes an additional 15 minutes (0.25 hours); always here means constant slope.
 * Call $T$ the time to produce $q$ unites, then $$T = 2+0.25q$$
 * Interpretation: $b$ is the ***setup*** time; $m$ is the ***work rate*** (15 minutes per additional item).
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/230898112-9301e0b9-6cdf-44e3-9469-9673aadd56ae.jpg>
+
+
+#### Linear programming
+
+* One of the key uses of linear models is in ***Linear Programming (LP)***, which is a techinique to solve certain ***optimisation*** problems.
+* These models incorporate ***constraints*** to make them more realistic.
+* Linear programming problems can be solved with add-ins for common spreadsheet programs.
