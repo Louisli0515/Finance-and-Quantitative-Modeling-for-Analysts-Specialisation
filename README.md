@@ -273,4 +273,30 @@ This course is available on Coursera, and here is my own note about this course.
 
 * These are models that incorporate ***random variables*** and ***probability distributions***.
 * Random variables represent the potential outcomes of an uncertain event.
-* Probability distribution assign probabilities 
+* Probability distribution assign probabilities to the various potential outcomes.
+* We use probabilistic models in practice because realistic decision making often necessitates recognising uncertainty in the intpus and outputs of a process.
+
+#### Key features of a probabilistic model
+
+* By incorporating ***uncertainty*** explicitly in the model we can measure the uncertainty associated with the outputs, for example by giving a range to a forecast, which is a more realistic goal.
+* In a business setting incorprating ***uncertainty*** is synonymous with understanding and quantifying in the ***risk*** in a business process, and ideally leads to better management decisions.
+
+#### Valuing a drug development company
+
+* A company has 10 drugs in a development portfolio.
+* Given a drug has been approved, you have predicted its revenue.
+* But whether a drug is approved or not is an uncertain future event (a random variable). You have estimated the probability of approval.
+* You only wish to invest in the company if the company's expected total revenue for the portfolio is over $10B in 5 years time.
+* You need to calculate the ***probability distribution*** of the total revenue to understand the investment risk.
+
+#### Some examples of probabilistic models
+
+* Regression models
+* Probability trees
+* Monte Carlo simulation
+* Markov models
+
+#### Regression models
+
+* $E(Price|Carats) = -259.6 + 3721\times Carats$.
+* The gray band gives a prediction interval for the price of a diamond taken from this population.
