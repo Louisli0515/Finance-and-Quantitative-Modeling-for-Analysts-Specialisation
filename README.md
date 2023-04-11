@@ -406,6 +406,8 @@ This course is available on Coursera, and here is my own note about this course.
 
 * Assume that the daily ***return*** on Apple's stock is approximately Normally distributed with $\mu = 0.13%$ and $\sigma = 2.34%$.
 * What is the probability that tomorrow Apple's stock price increases by more than 2.47%?
-* Technique: Count how many standard deviations 2.47% is away from the mean, 0.13%. Call this ***counter*** the ***z-score***: $$Z=\frac{2.47-0.13}{2.34} = 1$$.
+* Technique: Count how many standard deviations 2.47% is away from the mean, 0.13%. Call this ***counter*** the ***z-score***: $$Z=\frac{2.47-0.13}{2.34} = 1.$$
 * So from the Empirical Rule the probability equals approximately 16%.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231190355-1f9cba04-5e26-4913-9c33-2d1d931665ee.png>
 
