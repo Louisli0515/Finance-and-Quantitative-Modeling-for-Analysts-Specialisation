@@ -390,3 +390,7 @@ This course is available on Coursera, and here is my own note about this course.
 * Financial: stock returns
 * Educational: exam scores
 * Manufacturing: the length of an automotive component
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231188578-3f6fbd7a-e981-4b0e-8cf7-e69f99c81deb.png>
+
+* It is a famous example of continuous distribution, compared to Bernoulli and Binomial being discrete.
