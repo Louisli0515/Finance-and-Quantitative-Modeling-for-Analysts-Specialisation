@@ -338,4 +338,7 @@ This course is available on Coursera, and here is my own note about this course.
 
 #### Probability transition matrix
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231182428-86f8ebea-c389-4749-9216-072a9794dab6.png>
+
+
 * Markov property: transition probabilities only depend on the current state, not on prior states. Given the present, the future does not depend on the past.
