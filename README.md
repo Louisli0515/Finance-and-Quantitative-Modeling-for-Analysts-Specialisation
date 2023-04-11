@@ -343,3 +343,7 @@ This course is available on Coursera, and here is my own note about this course.
 * Markov property: transition probabilities only depend on the current state, not on prior states. Given the present, the future does not depend on the past.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231182569-7207109d-9a19-4749-bd17-e1235dfd8b1e.png>
+
+#### A continuous random variable
+
+* For a continuous random variable probabilities are computed from areas under the ***probability density function***.
