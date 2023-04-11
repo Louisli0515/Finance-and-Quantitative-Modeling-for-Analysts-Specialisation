@@ -354,3 +354,22 @@ This course is available on Coursera, and here is my own note about this course.
 
 * Mean $(\mu)$ measures centrality.
 * Two measuares of spread: - Variance $(\sigma^{2})$ and -Standard deviation $(\sigma)$.
+
+#### The Bernoulli distribution
+
+* The random variable $X$ takes on one of the two values: -$P(X=1) = p$ and -$P(X=0) = 1-p$.
+* Often viewed as an experiment that takes on two outcomes, success or failure. Sucess = 1 and failure = 0. 
+* $\mu = E(X)  = 1\times p+0\times(1-p) = p$.
+* $\sigma^{2} = E(X-\mu)^{2} = (1-p)^{2}p+(0-p)^{2}(1-p) = p(1-p)$.
+* $\sigma = \sqrt{p(1-p)}$.
+* For $p = 0.5$, $\mu = 0.5, \sigma^{2}= 0.25$ and $\sigma = 0.5$.
+
+#### The Binomial Distribution
+
+* A Binomial random variable is the number of success in $n$ ***independent*** Bernoulli trials.
+* Independent means that $P(A\,\text{and}\,B) = P(A)\times P(B)$.
+* Independence means that knowing that $A$ has occurred provides no information about the occurrence of $B$.
+* Independence is a common simplifying assumption in many probability models.
+* Example: Toss a fair coin 10 times and count the number of heads (call this $X$).
+* In general, $$P(X=x) = C_{n,x}p^{x}(1-p)^{n-x},$$ where $C_{n,x}$ is the ***binomial coefficient***: $\frac{n!}{x!(n-x)!}$.
+* $\mu = E(x) = np, \sigma^{2} = E(X-\mu)^{2} = np(1-p).$
