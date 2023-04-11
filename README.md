@@ -300,3 +300,7 @@ This course is available on Coursera, and here is my own note about this course.
 
 * $E(Price|Carats) = -259.6 + 3721\times Carats$.
 * The gray band gives a prediction interval for the price of a diamond taken from this population.
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231178439-c4315006-1c48-4f10-8312-979bee01a70c.png>
+* Regression models use data to estimate the relationship between the mean value of the outcome (Y) and a predictor variable (X).
+* The intrinsic variation in the raw data is incorporated into forecasts from the regression model.
+* The less noise in the underlying data the more precise the forecasts from the regression model will be.
