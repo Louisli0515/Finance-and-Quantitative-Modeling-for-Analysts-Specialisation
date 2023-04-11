@@ -373,3 +373,5 @@ This course is available on Coursera, and here is my own note about this course.
 * Example: Toss a fair coin 10 times and count the number of heads (call this $X$).
 * In general, $$P(X=x) = C_{n,x}p^{x}(1-p)^{n-x},$$ where $C_{n,x}$ is the ***binomial coefficient***: $\frac{n!}{x!(n-x)!}$.
 * $\mu = E(x) = np, \sigma^{2} = E(X-\mu)^{2} = np(1-p).$
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231186802-ac4be32a-510b-442a-b2e9-c39ecee7ab59.png>
