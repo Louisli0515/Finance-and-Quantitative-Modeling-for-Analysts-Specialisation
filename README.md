@@ -313,4 +313,16 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231179458-2832faa8-551a-4680-9239-35d69b26b9ff.png>
 
+#### Monte Carlo simuation
 
+* From the demand model $$Q = 60,000P^{-2.5}.$$
+* The optimal price was $p_{opt} = \frac{cb}{1+b}$ where $b = -2.5$, $c$ is the cost, $c=2$ and $p_{opt}\approx 3.33$.
+* What if $b$ is not known exactly?
+* Monte Carlo simulation replaces the number -2.5 with a random variable, and recalculates $p_{opt}$ using different realisations of this random variable from some stated probability distribution.
+
+#### Input and output from a MC simulation
+
+* Input: $b$ from a uniform distribution between $-2.9$ and $-2.1$.
+* Output" $p_{opt} = \frac{cb}{1+b}.$
+* 100,000 replications
+* Interval $= (3.1,3.7)$.
