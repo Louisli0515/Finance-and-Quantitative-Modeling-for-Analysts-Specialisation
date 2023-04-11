@@ -375,3 +375,18 @@ This course is available on Coursera, and here is my own note about this course.
 * $\mu = E(x) = np, \sigma^{2} = E(X-\mu)^{2} = np(1-p).$
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231186802-ac4be32a-510b-442a-b2e9-c39ecee7ab59.png>
+
+#### The Normal Distribution
+
+* The Normal distirbution, also known as the ***Bell Curve***, is the most important modeling distribution.
+* Many disparate processes can be well ***approximated*** by Normal distributions.
+* There are the ***Central Limit Theorem*** taht tells us Normal distribution should be expected in many situations.
+* A Normal distribution is characterised by its mean $\mu$ and standard deviation $\sigma$. It is symmetric about its mean.
+
+#### Examples
+
+* There is a ***universality*** to the Normal distribution
+* Biological: heights and weights
+* Financial: stock returns
+* Educational: exam scores
+* Manufacturing: the length of an automotive component
