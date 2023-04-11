@@ -323,6 +323,8 @@ This course is available on Coursera, and here is my own note about this course.
 #### Input and output from a MC simulation
 
 * Input: $b$ from a uniform distribution between $-2.9$ and $-2.1$.
-* Output" $p_{opt} = \frac{cb}{1+b}.$
+* Output: $p_{opt} = \frac{cb}{1+b}.$
 * 100,000 replications
 * Interval $= (3.1,3.7)$.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231181300-1ba328c8-00ed-420d-9be8-65a455172251.png>
