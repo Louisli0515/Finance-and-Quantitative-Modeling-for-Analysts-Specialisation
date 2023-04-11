@@ -394,3 +394,10 @@ This course is available on Coursera, and here is my own note about this course.
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231188578-3f6fbd7a-e981-4b0e-8cf7-e69f99c81deb.png>
 
 * It is a famous example of continuous distribution, compared to Bernoulli and Binomial being discrete.
+
+#### The Empirical Rule
+
+* The Empirical Rule is a rule for calculating probabilities of events when the underlying distribution or observed data is approximately Normally distributed.
+* It states: 1. There is an approximate 68% chance that an observation falls within ***one*** standard deviation from the mean; 2. There is an approximate 95% chance that an observation falls within **two*** standard deviations from the mean; 3. There is an approximate 99.7% chance that an observation falls within ***three*** standard deviations from the mean.
+
+
