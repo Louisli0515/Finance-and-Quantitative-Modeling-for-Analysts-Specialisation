@@ -311,4 +311,6 @@ This course is available on Coursera, and here is my own note about this course.
 * Probability tress allow you to propagate probabilities through a sequence of events.
 * $P(\text{Stop infringing}) = 0.1+0.9\times 0.15+0.9\times 0.85\times 0.2 = 0.388.$
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231179458-2832faa8-551a-4680-9239-35d69b26b9ff.png>
+
 
