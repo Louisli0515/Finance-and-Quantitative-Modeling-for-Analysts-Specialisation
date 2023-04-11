@@ -328,3 +328,14 @@ This course is available on Coursera, and here is my own note about this course.
 * Interval $= (3.1,3.7)$.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231181300-1ba328c8-00ed-420d-9be8-65a455172251.png>
+
+#### Markov chain models
+
+* Dynamics models for discrete time state space transitions.
+* Example: employment status (the state of the chain).
+* Treat time in 6 month blocks.
+* Model states: 1. Employed; 2. Unemployed and looking; 3. Unemployed and not looking.
+
+#### Probability transition matrix
+
+* Markov property: transition probabilities only depend on the current state, not on prior states. Given the present, the future does not depend on the past.
