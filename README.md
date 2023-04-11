@@ -347,3 +347,10 @@ This course is available on Coursera, and here is my own note about this course.
 #### A continuous random variable
 
 * For a continuous random variable probabilities are computed from areas under the ***probability density function***.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231183685-2d238999-17bb-4651-a741-efa2eab69b90.png>
+
+#### Key summaries of probability distributions
+
+* Mean $(\mu)$ measures centrality.
+* Two measuares of spread: - Variance $(\sigma^{2})$ and -Standard deviation $(\sigma)$.
