@@ -402,3 +402,10 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img wdith = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231189547-18b166d7-5ab1-4c45-a3f4-f039b2c80783.png>
 
+#### Empirical Rule example
+
+* Assume that the daily ***return*** on Apple's stock is approximately Normally distributed with $\mu = 0.13%$ and $\sigma = 2.34%$.
+* What is the probability that tomorrow Apple's stock price increases by more than 2.47%?
+* Technique: Count how many standard deviations 2.47% is away from the mean, 0.13%. Call this ***counter*** the ***z-score***: $$Z=\frac{2.47-0.13}{2.34} = 1$$.
+* So from the Empirical Rule the probability equals approximately 16%.
+
