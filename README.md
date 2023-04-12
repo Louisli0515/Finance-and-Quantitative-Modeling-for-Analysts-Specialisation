@@ -411,3 +411,8 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231190355-1f9cba04-5e26-4913-9c33-2d1d931665ee.png>
 
+### Module 4
+
+#### Regression models
+
+* A ***simple regression*** model uses a single predictor variable $X$ to estimate the ***mean*** of an outcome variable $Y$, as a function of $X$.
