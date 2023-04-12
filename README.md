@@ -424,3 +424,21 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231561048-fbcad55f-4b49-4ce9-8f76-f5654a905bf0.png>
 
+#### Correlation
+
+* ***Correlation*** is a measure of the strength of ***linear association*** between two variables.
+* It is denoted by $r$, where $-1\leq r\leq 1$.
+* Negative values of the correlation indicate negative association and positive values indicate positive association.
+* A correlation of 0 means no linear association between the variables.
+
+#### Questions that can be answered with a regression
+
+* In a business setting regression is most often used as a ***prediction*** tool. It is a core ***predictive analytics*** methodology: Give me a ***Prediction Interval*** in which the price is likely to fall.
+* Interpreting coefficients from the model: How much on average do you expect to pay for diamonds that weigh 0.3 carats vs. diamonds that weigh 0.2 carats?
+* How much of the variability in price is accounted for by the weight of the diamond?
+
+#### Fitting a model to data using least squares
+
+* Fitting a model requires an optimality criteria.
+* Most regression models are fit using ***least squares***: Find the line that minimises the sum of the squares of the vertical distance from the points to the line.
+
