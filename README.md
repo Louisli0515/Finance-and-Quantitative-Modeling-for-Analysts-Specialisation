@@ -512,3 +512,6 @@ This course is available on Coursera, and here is my own note about this course.
 * The model is now a plane rather than a line.
 * For this model, $R^{2} = 84%$ and $RMSE = 3.45$, an improvement over the simple regression model with only weight included.
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231571540-62bbc686-01a6-42a4-a9bc-9e79af56804a.png>
+
+
