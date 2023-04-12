@@ -442,3 +442,8 @@ This course is available on Coursera, and here is my own note about this course.
 * Fitting a model requires an optimality criteria.
 * Most regression models are fit using ***least squares***: Find the line that minimises the sum of the squares of the vertical distance from the points to the line.
 
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231562618-2d322fe3-4971-4aac-853a-eb83ac47beaf.png>
+
+#### Residuals and fitted values
+
+* Key insight: The regression line decomposes the observed data into two components; 1. The fitted values (the predictions); 2. The residuals (the vertical distance from point to line)
