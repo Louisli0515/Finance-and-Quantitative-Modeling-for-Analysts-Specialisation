@@ -486,3 +486,6 @@ This course is available on Coursera, and here is my own note about this course.
 
 * Often relationships are non-linear.
 * Demand for a pet food against average price. A line is a bad fit to the data.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231568526-55859b39-98fc-45c5-a4e0-f733cce89fb1.png>
+
