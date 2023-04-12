@@ -520,3 +520,9 @@ This course is available on Coursera, and here is my own note about this course.
 * In many business problems, the outcome variable is ***not*** continuous but rather, ***discrete***; Purchase a product: Yes/No; Medical outcome: Live/Die; Website Activity: Sign up/Don't sign up.
 * Theses outcomes can be viewed as Bernoulli random variables.
 * Logistic regression is used to estimate the probability that a Bernoulli random variable is a ***success***, as a function of predictor variables.
+
+#### Logistic regression fit
+
+* The logistic regression fit is more appropriate, always predicting probabilities between 0 and 1.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231573031-dd224424-6eac-47ac-a8c7-a3dd6ec10416.png>
