@@ -489,3 +489,8 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231568526-55859b39-98fc-45c5-a4e0-f733cce89fb1.png>
 
+* This is where the basic math functions discussed in module 1 come in very useful.
+* Look at the pet food data after having taken the log transform.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231568691-f43c44f7-35a7-4fa6-b6f3-193b993bb508.png>
+
