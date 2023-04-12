@@ -416,3 +416,8 @@ This course is available on Coursera, and here is my own note about this course.
 #### Regression models
 
 * A ***simple regression*** model uses a single predictor variable $X$ to estimate the ***mean*** of an outcome variable $Y$, as a function of $X$.
+
+#### Example
+
+* Using the diamonds data: the predictor variable is the diamond's weight in carats and the outcome variable is the price of the diamond.
+* If the relationship is modeled with a straight line we call it a ***linear regression***: $E(Y|X) = b_{0}+b_{1}X.$
