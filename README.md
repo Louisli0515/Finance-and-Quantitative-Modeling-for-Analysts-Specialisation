@@ -458,3 +458,5 @@ This course is available on Coursera, and here is my own note about this course.
 * Slope is measured in units of $Y/X$.
 * Intercept = Setup time in minutes.
 * Slope = Work rate in minutes per additional item.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231565833-f98f5b8e-3fb2-4376-a1bc-2783982a1c47.png>
