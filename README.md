@@ -479,3 +479,5 @@ This course is available on Coursera, and here is my own note about this course.
 #### Residual diagonostics - checking the Normality assumption
 
 * The histogram of residuals from the diamonds regression is approximately Nomrally distributed, providing no strong evidence ***against*** the Normality assumption.
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231568185-2c9b0de6-e3e2-48c2-b608-8919fb602f63.png>
