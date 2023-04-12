@@ -421,3 +421,6 @@ This course is available on Coursera, and here is my own note about this course.
 
 * Using the diamonds data: the predictor variable is the diamond's weight in carats and the outcome variable is the price of the diamond.
 * If the relationship is modeled with a straight line we call it a ***linear regression***: $E(Y|X) = b_{0}+b_{1}X.$
+
+<img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231561048-fbcad55f-4b49-4ce9-8f76-f5654a905bf0.png>
+
