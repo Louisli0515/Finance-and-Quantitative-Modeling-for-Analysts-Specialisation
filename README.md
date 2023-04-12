@@ -514,4 +514,9 @@ This course is available on Coursera, and here is my own note about this course.
 
 <img width = 30% height = 30% src = https://user-images.githubusercontent.com/128298224/231571540-62bbc686-01a6-42a4-a9bc-9e79af56804a.png>
 
+#### Logistic regression 
 
+* Linear regression is most appropriate when the outcome variable $Y$ is continuous.
+* In many business problems, the outcome variable is ***not*** continuous but rather, ***discrete***; Purchase a product: Yes/No; Medical outcome: Live/Die; Website Activity: Sign up/Don't sign up.
+* Theses outcomes can be viewed as Bernoulli random variables.
+* Logistic regression is used to estimate the probability that a Bernoulli random variable is a ***success***, as a function of predictor variables.
