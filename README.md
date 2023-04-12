@@ -481,3 +481,8 @@ This course is available on Coursera, and here is my own note about this course.
 * The histogram of residuals from the diamonds regression is approximately Nomrally distributed, providing no strong evidence ***against*** the Normality assumption.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231568185-2c9b0de6-e3e2-48c2-b608-8919fb602f63.png>
+
+#### Fitting curves to data
+
+* Often relationships are non-linear.
+* Demand for a pet food against average price. A line is a bad fit to the data.
