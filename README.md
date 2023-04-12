@@ -447,3 +447,14 @@ This course is available on Coursera, and here is my own note about this course.
 #### Residuals and fitted values
 
 * Key insight: The regression line decomposes the observed data into two components; 1. The fitted values (the predictions); 2. The residuals (the vertical distance from point to line)
+* The fitted values are the forecasts.
+* The residuals allow us to assess the quality of the fit. If a point has a large residual it is not well fit by the regression. If we can explain why, we have learnt something new.
+
+#### Interpretation of regression coefficients.
+
+* For example, $E(Y|X) = 182 + 0.22 X$.
+* Equate units on each side.
+* Intercept is measure in units of $Y$.
+* Slope is measured in units of $Y/X$.
+* Intercept = Setup time in minutes.
+* Slope = Work rate in minutes per additional item.
