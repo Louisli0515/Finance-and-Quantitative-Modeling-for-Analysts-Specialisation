@@ -460,3 +460,22 @@ This course is available on Coursera, and here is my own note about this course.
 * Slope = Work rate in minutes per additional item.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231565833-f98f5b8e-3fb2-4376-a1bc-2783982a1c47.png>
+
+
+#### $R^{2}$ and Root Mean Squared Error (RMSE)
+
+* $R^{2}$ measures the proportion of variability in $Y$ explained by the regression model. It is the square of the correlation, $r$.
+* RMSE measures the standard deviation of the residuals (the spread of the points about the fitted regression line).
+
+#### Using Root Mean Squared Error
+
+* Assumption: at a fixed value of $X$, the distribution of points about the true regression line follows a Normal distribution, centered on the regression line.
+* These normal distributions all have the same standard deviation $\sigma$, which is estimated by RMSE.
+
+#### An approximate 95% prediction interval for a new observation
+
+* Using the Normality assumption and the Empirical Rule, (within the range of the observed data) an approximate 95% prediction interval for a new observation is given by $$\text{Forecast}\pm 2\times\text{RMSE}.$$
+
+#### Residual diagonostics - checking the Normality assumption
+
+* The histogram of residuals from the diamonds regression is approximately Nomrally distributed, providing no strong evidence ***against*** the Normality assumption.
