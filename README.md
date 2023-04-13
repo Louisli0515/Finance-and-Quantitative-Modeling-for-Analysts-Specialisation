@@ -531,10 +531,21 @@ This course is available on Coursera, and here is my own note about this course.
 
 ### Module 1
 
-#### Excel computation orders
+#### Excel order of calculation
 
 * PEMDAS
 * Parentheses
 * Exponents
 * Multiplication/Division
 * Addition/Subtraction
+
+#### Using functions 
+
+* We can use =sumproduct(x1:x3,y1:y3), where it means $(x_{1}+x_{2}+x_{3})\times(y_{1}+y_{2}+y_{3}).$
+* Average: =average
+* Min/Max: =min/=max
+* Standard Deviation: = STDEV.P(x1:x3)
+
+#### Using conditional expressions in formulas
+
+* IF function: =IF(X,Y,Z), where $X$ means the condition, $Y$ means the task when it meets $X$, and $Z$ is the task else.
