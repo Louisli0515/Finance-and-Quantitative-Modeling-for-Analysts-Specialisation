@@ -526,3 +526,15 @@ This course is available on Coursera, and here is my own note about this course.
 * The logistic regression fit is more appropriate, always predicting probabilities between 0 and 1.
 
 <img width = 50% height = 50% src = https://user-images.githubusercontent.com/128298224/231573031-dd224424-6eac-47ac-a8c7-a3dd6ec10416.png>
+
+## Introduction to Spreadsheets & Models
+
+### Module 1
+
+#### Excel computation orders
+
+* PEMDAS
+* Parentheses
+* Exponents
+* Multiplication/Division
+* Addition/Subtraction
