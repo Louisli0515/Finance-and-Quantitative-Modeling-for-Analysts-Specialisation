@@ -549,3 +549,12 @@ This course is available on Coursera, and here is my own note about this course.
 #### Using conditional expressions in formulas
 
 * IF function: =IF(X,Y,Z), where $X$ means the condition, $Y$ means the task when it meets $X$, and $Z$ is the task else.
+
+### Module 2
+
+[Module2.pdf](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11235279/Module2.pdf)
+
+[Module-2-examples.xlsx](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11235275/Module-2-examples.xlsx)
+
+
+
