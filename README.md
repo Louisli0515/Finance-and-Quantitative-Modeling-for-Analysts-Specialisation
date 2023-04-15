@@ -531,6 +531,10 @@ This course is available on Coursera, and here is my own note about this course.
 
 ### Module 1
 
+[Module1.pdf](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239186/Module1.pdf)
+
+[Module-1-Examples.xlsx](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239187/Module-1-Examples.xlsx)
+
 #### Excel order of calculation
 
 * PEMDAS
@@ -555,6 +559,13 @@ This course is available on Coursera, and here is my own note about this course.
 [Module2.pdf](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11235279/Module2.pdf)
 
 [Module-2-examples.xlsx](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11235275/Module-2-examples.xlsx)
+
+### Module 3
+
+[Module3.pdf](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239181/Module3.pdf)
+
+[Modul-3-Examples.xlsx](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239182/Modul-3-Examples.xlsx)
+
 
 
 
