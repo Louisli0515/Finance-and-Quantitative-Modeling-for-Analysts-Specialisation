@@ -567,5 +567,10 @@ This course is available on Coursera, and here is my own note about this course.
 [Modul-3-Examples.xlsx](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239182/Modul-3-Examples.xlsx)
 
 
+#### Excel random variable and other functions
 
-
+* = randbetween $(x,y)$, where $x$ and $y$ are an interval (range)
+* = exp, exponential function
+* = forecast $(x,a:b,c:d)$, where $x$ is the forcasting year, $a:b$ is number of inputs (y-values), and $c:d$ is the independent variable $'x'$.
+* = growth $(a:b, c:d, x)$, where $a:b$ is the known y values, $c:d$ is the corresponding $x$ values and $x$ is the forcasting year.
+* = Correl $(x,y)$
