@@ -574,3 +574,11 @@ This course is available on Coursera, and here is my own note about this course.
 * = forecast $(x,a:b,c:d)$, where $x$ is the forcasting year, $a:b$ is number of inputs (y-values), and $c:d$ is the independent variable $'x'$.
 * = growth $(a:b, c:d, x)$, where $a:b$ is the known y values, $c:d$ is the corresponding $x$ values and $x$ is the forcasting year.
 * = Correl $(x,y)$
+
+### Module 4
+
+[Module4.pdf](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239586/Module4.pdf)
+
+[Module-4-examples.xlsx](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239588/Module-4-examples.xlsx)
+
+
