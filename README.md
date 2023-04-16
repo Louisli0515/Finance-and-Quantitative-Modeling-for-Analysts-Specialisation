@@ -589,3 +589,193 @@ This course is available on Coursera, and here is my own note about this course.
 
 * Accounting is a systme for recording information about business transactions and events.
 * To provide summary statements of a company's financial position and performance to users who require such information.
+* Financial accounting: Standardised reports for external stakeholders.
+* Tax accounting: IRS rules for computing taxes payable.
+* Managerial accounting: Custom reports for internal decision making.
+
+#### Financial Reporting Requirements
+
+* Each country has its own financial reporting requirements
+* In ths U.S., The Securities and Exchange Commission (SEC) requires periodic financial statement filings: 
+* (1) 10-K: Annual report (within 60 days for big firms)
+* (2) 10-Q: Quarterly report (within 40 days for big firms)
+* (3) 8-K: Current report (material events)
+* (4) Proxy, registration and insider trading statements.
+* In other countries, firm file semi-annual reports instead of quarterly reports.
+* Firms supplement filings with voluntary disclosure: Conference calls, press releases, forecasts, presentations at brokerage conferences.
+
+#### Who makes the Accounting Rules?
+
+* ***Generally Accepted Accounting Prinicples (GAAP)*** are established by:
+* (1) U.S. Congress, but they delegate to the SEC.
+* (2) The SEC, but they delegate to Financial Accounting Standards Board (FASB).
+* ***International Financial Reporting Standards (IFRS)*** are required in over 100 countries, including the EU.
+* The two sets of rules are similar, but not the same.
+
+#### Financial Statements Provide Information About Firms' Ecnomoic Activities
+
+* Raise Capital From Investors -> Acquire Resources -> Produce goods and services -> Collect from customers -> Distribute Funds to Investors.
+
+#### More Timely Information Requires More Estimation
+
+* Accounting systems slice the firms' life into arbitrary periods (quarters and years).
+* This allows for the generation of more timely information.
+* But many activities and decisions made to date aren't done - they still have implications for future cash flows.
+
+#### Annual Report Contents
+
+* Discussion of Firm's strategy, products, competitive environment, Financial statistics, Management discussion and analysis (MD&A)
+* Financial statements
+* Footnotes: These explain the accounting procedures used by the firms and discuss various assumptions regarding how the numbers were calculated.
+
+#### What are the Required Financial Statements?
+
+* Balance Sheet: Financial position on a specific date; Assets = Liabilities + Stockholders' Equity.
+* Income Statement: Result of operations over a period of time; Net income = Revenues - Expenses.
+* Statement of Cash Flows.
+* Statement of Stockholders' Equity.
+
+#### Balance Sheet
+
+* Balance Sheet is a statement of financial position.
+* Key components: Assets, Liabilities, Shareholders' Equity.
+* Describes the resources (assets)
+* Describes claims on resources (liabities)
+
+#### Balance Sheet Equation
+
+* Assets = Liabilities + Shareholders' Equity
+* Resources = Claims on Resources by Outsiders + Owners.
+* Just because a balance sheet balances, does not mean financial position is okay.
+* Every transaction or event that is recorded in the financial statements must preserve the balance sheet equation. This means each transaction must balance.
+* If one account is impacted, at least one other must be as well.
+
+#### Presentation Format
+
+* The balance sheet equation must hold for firms using GAAP as well as for those using IFRS.
+
+#### Equivalent View
+
+* Shareholders' Equity = Assets - Liabilities: Sometimes will see the term "Net Worth" or "Net Assets".
+
+#### Relationship Between Financial Statements
+
+* The balance sheet shows the resources and claims on the resources ***AT A POINT OF TIME***.
+* The income statement and cash flow statement provides information about how the balance sheet changes ***OVER A PERIOD OF TIME***: The cash flow statements tells you how the CASH account on the balance sheet changes over time.
+
+#### Issues in Recording Assets and Liabilities
+
+* Recognition: Should an asset or liability be recognised in the financial statements?
+* Measurements: How should asset and liability values be initially measured? Do we adjust the values over time? What do we remove them?
+* Historical Cost: How much did you pay to acquire the assets?
+* Fair value: What is the asset worth today?
+
+#### Assets
+
+* An ASSET is a resource that is expected to provide ***future*** economic benefits (i.e. generate future cash inflows or reduce future cash outflows).
+* An asset is recognised when it is acquired in a past transaction or exhcnage and the value of its future benefits can be measured with a reasonable degree of precision.
+
+#### Liabilities
+
+* A LIABILITY is a claim on assets by 'creditors' (non-owners) that represents an obligation to make future payment of cash, goods or services.
+* Not all liabilities will show up on the balance sheet.
+* Liabilities to be settled more than a year in advance are generally measured at their present value.
+
+#### Shareholders' Equity
+
+* SHAREHOLDERS' EQUITY is the residual claim on assets after settling claims of creditors (i.e. assets - liabilities).
+* Types of Shareholders' Equity: Contributed capital (common stock and additianal paid-in-capital); Retained Earnings; Treasury Stock (Repurchase some of our Own Shares).
+
+#### Capital Structure
+
+* Capital Structure is the way the firm has financed its assets.
+
+#### Differences Between Debt and Equity
+
+* Contractual: Payments to debt-holders are usually contractually specified (interest and principal); Equity holders are 'hoping' to get something (dividends & capital gains).
+* Voting: Equity holders get to vote.
+* Priority of Claims: Debt holders get paid first but their return is capped; Equity holders get nothing if the firm does poorly but get all the upside if the firm does well.
+
+#### Leverage
+
+* The amount of debt vs. equity in the capital structure.
+
+#### Goodwill
+
+* When you make an acquisition, you assign the purchase price to all the individual assets and liabilities that you have acquired.
+* Value them at what you think their current fair value is (not the amount they were listed on the other company's books).
+* This also means assign a value to any intangibles you have acquired (brand names, patents, etc.)
+* If the total purchase price exceeds the sum of the above individual fiar values (and it usualy does), the rest is allocated to Goodwill.
+
+#### Common Sized Balance Sheet
+
+* Very useful tool in analysing financial statements.
+* Divide everything on the balance sheet by that year's total assets.
+* Tells you the percent of your total assets in each category.
+* Helps illuminate structure of your assets.
+* Especially useful in comparing companies of different size.
+* For Xsite: Goodwill is 40% of total assets; Other intangibles are 22%.
+
+#### Income
+
+* Income is a measure of the performance of the company during a period of time.
+* The Incoem Statement help link Changes in Balance Sheets.
+* Income feeds into the Retained Earnings Account on the balance sheet.
+* Retained Earnings Represents the **CUMULATIVE INCOME*** of the firm (net of what has been paid out as a dividend). $$\text{Retained Earnings}_ {\text{end}} = \text{Retained Earnings}_ {\text{beg}} + \text{Income This Year} - \text{Dividends this Year}.$$
+
+#### Accrual Accounting
+
+* Income is not the same as cash flow
+* Accrual Accounting - the recognition that revenues and expenses are tied to business activites, not necessarily to cash flow. 
+* Income measures the increase in economic value from a transaction or event.
+* Cash flow measures the receipt of that value in the form of cash.
+* The difference is one of TIMING.
+
+#### Income Statement Format
+
+* The Income Statement generally has the following format: $$\text{Revenue or Sales} - \text{Cost of Goods Sold} - \text{Operating Expense} - \text{Interest, Other Gains, and Losses} - \text{Income Tax Expense}.$$
+
+#### Revenue
+
+* Revenue is an increase in shareholders' equity from providing goods or services.
+* Revenue is recognised when both: it is earned(i.e. goods or services are provided) and it is realised(i.e. payment for goods or services received in cahs or something that can be converted to a known amount of cash).
+
+#### Expenses
+
+* Expenses are the decreases in shareholders' equity (not necessarily cash) that arise in the process of generating revenues.
+* Expenses are recognised when either: Related revenues are recognised(product costs) or incurred, if difficult to match with revenues (period costs and unusual events).
+* The underlying recognition concepts are the: Matching principle (product vs. period costs); Conservatism principle: recognise anticipated losses immediately, recognise anticipated gains only when realised.
+
+#### Adjusting Entries
+
+* The way events for which there are no underlying transactions or where no cash has exchanged hands - are recorded.
+* Often done at the end of the period to record.
+* Tricky to keep track of because they generally don't involve a specific transaction or have any cash to point to: Done when the firm already knows how good a year (or a quarter) they've had.
+
+#### Other Things Need to Record
+
+* Depreciation: We don't charge the entire purchase price of an asset to the period in which it was bought if it will provided benefits beyond that.
+* Straight-line Depreciation: Takes the purchase price of the asset and spreads it out evenly over the useful life. $$\text{Depreciation Expense} = (\text{Original Cost} - \text{Salvage Value})/\text{Useful Life}.$$ To calcuate, you need an estimate of what the salvage value is and how long the asset is going to live.
+
+#### Adjusting Entries
+
+* Allowance for Uncollectibles
+* Allowance for Returns
+* Income Tax Expense
+* Mark to Market Adjustments
+* Impairment Charges
+* Accrued Interest Expense or Income
+
+#### Recurring vs Non-Recurring Items
+
+* Earnings reports things that happened, but not all of them are likely to recur.
+* Recurring items are more important from a valuation. (looking ahead) perspective.
+* Analysts try to separate recurring from non-recurring items.
+* What is an Impairment Charge?: Review assets to re-evaluate and write them down to actual lower value; Writing them down means the asset and owner's equity moves down.
+
+#### Margin Analysis
+
+* Take the Income Statement and divide everything by that year's Sales Revenue.
+* This gives each expense item as a percent of revenue.
+* It helps reveal the structure of your costs.
+* It tells you how each dollar of sales gets 'eaten up' by different kinds of costs and how much is left over for profits.
