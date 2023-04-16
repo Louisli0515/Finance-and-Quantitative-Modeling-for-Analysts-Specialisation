@@ -581,4 +581,11 @@ This course is available on Coursera, and here is my own note about this course.
 
 [Module-4-examples.xlsx](https://github.com/Louisli0515/Finance-and-Quantitative-Modeling-for-Analysts-Specialisation/files/11239588/Module-4-examples.xlsx)
 
+## Financial Acumen for Non-Financial Managers
 
+### Module 1
+
+#### Definition of Accounting
+
+* Accounting is a systme for recording information about business transactions and events.
+* To provide summary statements of a company's financial position and performance to users who require such information.
